@@ -23,7 +23,7 @@ repository               : "ww2781nyu/ww2781nyu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "WW.jpg"
+  avatar           : "WW.png"
   name             : "Wei Wu"
   pronouns         : # example: "she/her"  
   bio              : "Mechanical Engineering student and researcher interested in robotics, surgical robotics, wearable sensing, and machine learning."
